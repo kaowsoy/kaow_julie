@@ -1,0 +1,13 @@
+body {
+  display: grid;
+  grid-template-columns: 1.5fr 10fr;
+}
+
+.cardrow {
+  display: flex;
+}
+
+main {
+  display: grid;
+  grid-template-rows: 1fr 10fr;
+}
